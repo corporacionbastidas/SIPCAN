@@ -263,8 +263,8 @@ th {
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('https://rawcdn.githack.com/corporacionbastidas/SIPCAN/50b68ae4d2bbb09494fc4eccbfa7e58fad87789a/glyphicons-halflings-regular.eot');
+  src: url('https://rawcdn.githack.com/corporacionbastidas/SIPCAN/50b68ae4d2bbb09494fc4eccbfa7e58fad87789a/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://rawcdn.githack.com/corporacionbastidas/SIPCAN/50b68ae4d2bbb09494fc4eccbfa7e58fad87789a/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://rawcdn.githack.com/corporacionbastidas/SIPCAN/50b68ae4d2bbb09494fc4eccbfa7e58fad87789a/glyphicons-halflings-regular.woff') format('truetype'), url('https://rawcdn.githack.com/corporacionbastidas/SIPCAN/50b68ae4d2bbb09494fc4eccbfa7e58fad87789a/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
